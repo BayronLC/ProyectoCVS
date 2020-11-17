@@ -6,16 +6,16 @@
 package javaapplication4;
 
 /**
- *
+ 
  * @author dam
  */
 public class JavaApplication4 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         System.out.println("Proyecto de control de versiones");
+        System.out.println("nueva modificación 1");
+        System.out.println("nueva modificación 2");
+        System.out.println("nueva modificación 3");
     }
     
 }
